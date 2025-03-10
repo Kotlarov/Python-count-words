@@ -5,6 +5,7 @@ The script counts "countenance" and "endeavour" with all endings.
 In addition, it counts the top n words with x letters (here n=20 and x=9) as a comparison. The counting of all words does not group similar ones!
 
 The 20 most common words with at least 9 letters:
+
 Elizabeth: 85
 miserable: 59
 happiness: 44
@@ -25,7 +26,9 @@ knowledge: 25
 sensations: 24
 existence: 24
 creatures: 23
+
 ['countenances', 'countenance']: 37
+
 ['endeavours', 'endeavoured', 'endeavour', 'endeavouring']: 52
 
 Who was right depends on whether you consider the different variations of the word or not! 
