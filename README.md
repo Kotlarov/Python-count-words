@@ -27,8 +27,8 @@ sensations: 24
 existence: 24
 creatures: 23
 
-['countenances', 'countenance']: 37
+countenances, countenance: 37
 
-['endeavours', 'endeavoured', 'endeavour', 'endeavouring']: 52
+endeavours, endeavoured, endeavour, endeavouring: 52
 
 Who was right depends on whether you consider the different variations of the word or not! 
