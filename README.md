@@ -29,4 +29,5 @@ creatures: 23
 
 _Countenance_ appears 29 times whereas _endeavoured_ only 27! But if you include all the different word endings you get:  
 _countenances, countenance:_ 37 and _endeavours, endeavoured, endeavour, endeavouring:_ 52  
+
 __Counting all endings, the word _endeavour_ occurs more often in the book.__
